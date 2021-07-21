@@ -1,0 +1,5 @@
+lightgbm==3.1.1
+category_encoders==2.2.2
+optuna==2.6.0
+pyarrow==3.0.0
+python-vivid==0.3.3.4

@@ -1,0 +1,8 @@
+build/
+dist/
+nyaggle.egg-info/
+.idea/
+__pycache__/
+.pytest_cache/
+mlruns/
+catboost_info
